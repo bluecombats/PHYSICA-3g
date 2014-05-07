@@ -1,0 +1,10 @@
+'TN'   0   -3   0.   0.0001     #temperature, no patches, lower y axis, at y=0, tolerance
+0   1   1.                     #portrait, showpage, size in mm
+25.   25.   160.   250.   1    #Position on paper: horizontal, verical, horizontal length, vertical length, keep_asp: define plotting window
+0  0    0  0     0    0    0   #on/off: xmin, xmax, ymin, ymax, VarMin,VarMax, vector length
+0  0    0  0    20  150    0.5 #values: xmin, xmax, ymin, ymax, VarMin,VarMax, vector length
+2   0   1   0.05               #in colour, arrow, mesh, line width
+'Al  top'                      #title
+'x,mm'   'y,mm'   'T'   'm/s'  #axis title, scalar symbol, vector units
+1000.     1000.    1.    1.    #scalar for above
+'' 0 0                         #end of list

@@ -1,0 +1,8 @@
+Physica is a Finite Element Analysis software.
+Website is:http://w3.gre.ac.uk/~physica/phy3.11/
+with the add ons that are attached to Physica, the 3 files you need to run Physica are:
+inform
+.geo
+plotpar
+
+This is my record of what is possible to do in Physica.

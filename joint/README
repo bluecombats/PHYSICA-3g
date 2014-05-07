@@ -1,0 +1,4 @@
+This is showing how to join 2 mbrick files (top.md and bottom.md) to get a geo file via joint.mbl.
+The result is the geo file or for easier viewing a ghost script file (Tz000.eps)
+The comments in the plotpar and md files do not need to start with # but it is easier for me at least to see where they start.
+plotpar and md files have the comment at the end of the commands on that line.
